@@ -1,0 +1,17 @@
+{
+  "name": "bot_cc",
+  "version": "1.0.0",
+  "description": "projeto voltado para criar um bot para discord",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joaopcs",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.16.0",
+    "idna": "^0.0.1",
+    "node-fetch": "^2.7.0"
+  }
+}
